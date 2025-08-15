@@ -102,10 +102,10 @@ cmake --build .
 ## 📚 Documentation
 
 This project uses **Doxygen** for code documentation.  
-The latest generated HTML documentation is available in the [`docs/html/`](docs/html/) directory.
+The latest generated HTML documentation is available in the [`docs/`](docs/) directory.
 
 ### View locally:
-1. Open `docs/html/index.html` in your browser.
+1. Open `docs/index.html` in your browser.
 2. Navigate through classes, functions, and file references.
 
 ### Regenerate documentation:
@@ -116,7 +116,7 @@ doxygen Doxyfile
 ### GitHub Pages:
 If this repository is hosted on GitHub, you can view the documentation online:
 - Go to **Settings → Pages**
-- Set **Source** to `main` branch and `/docs/html` folder
+- Set **Source** to `main` branch and `/docs` folder
 - Save settings, and visit:  
   ```
   https://ardasmsek58.github.io/CryptoLicenseSystem/
