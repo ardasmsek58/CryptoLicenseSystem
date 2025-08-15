@@ -124,6 +124,13 @@ If this repository is hosted on GitHub, you can view the documentation online:
 
 ---
 
+## 👨‍💻 Developer
+
+**Arda Şimşek**  
+GitHub: [ardasmsek58](https://github.com/ardasmsek58) 
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License.  
