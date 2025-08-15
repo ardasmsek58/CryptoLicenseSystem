@@ -1,0 +1,34 @@
+# === Qt Creator Project Files ===
+.qtcreator/
+*.pro.user
+*.qmake.stash
+
+# === CMake Build Files ===
+build/
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+Makefile
+cmake_install.cmake
+
+# === Compiled Object & Binary Files ===
+*.o
+*.obj
+*.pdb
+*.exe
+*.dll
+*.lib
+*.so
+*.dylib
+
+# === macOS / Windows System Files ===
+.DS_Store
+Thumbs.db
+
+# === Logs & Temporary Files ===
+*.log
+*.tmp
+
+# === Qt / QML Cache ===
+*.qmlc
+*.jsc
