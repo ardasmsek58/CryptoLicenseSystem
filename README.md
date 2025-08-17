@@ -1,4 +1,4 @@
-# CryptoLicenseSystem
+# Crypto License System
 
 A hardware-locked licensing system developed in C++17 using Qt and OpenSSL.  
 It consists of two independent applications:  
