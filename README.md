@@ -142,6 +142,6 @@ See the [LICENSE](LICENSE) file for details.
 
 The latest stable version of **CryptoLicenseSystem** is available on GitHub Releases.  
 
-👉 [Download v1.0.0]([https://github.com/username/CryptoLicenseSystem/releases/tag/v1.0.0](https://github.com/ardasmsek58/crypto-license-system/releases/tag/v1.0.0
-))
+👉 [Download v1.0.0](https://github.com/ardasmsek58/crypto-license-system/releases/tag/v1.0.0)
+
 
