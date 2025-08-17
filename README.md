@@ -135,3 +135,12 @@ GitHub: [ardasmsek58](https://github.com/ardasmsek58)
 
 This project is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🏷️ Latest Release
+
+The latest stable version of **CryptoLicenseSystem** is available on GitHub Releases.  
+
+👉 [Download v1.0.0](https://github.com/username/repo-name/releases/tag/v1.0.0)
+
